@@ -15,9 +15,9 @@ setup(
     license='BSD License',  # example license
     description='A simple Django app to create blogs',
     long_description=README,
-    url='http://www.example.com/',
-    author='Your Name',
-    author_email='yourname@example.com',
+    url='https://github.com/Philneeves/',
+    author='Philip Neeves',
+    author_email='p.neeves@gmail.com',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
