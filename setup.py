@@ -15,7 +15,7 @@ setup(
     license='BSD License',  # example license
     description='A simple Django app to create blogs',
     long_description=README,
-    url='https://github.com/Philneeves/',
+    url='https://github.com/Philneeves/reusable_blog_app',
     author='Philip Neeves',
     author_email='p.neeves@gmail.com',
     classifiers=[
